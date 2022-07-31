@@ -1,0 +1,10 @@
+{
+    "name": "fw/mvc",
+    "description": "Một fw của mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/",
+            "System\\Core\\" : "System/Core/"
+        }
+    }
+}
